@@ -1,2 +1,2 @@
 # python
-i love python because coding is my passion
+i love python
